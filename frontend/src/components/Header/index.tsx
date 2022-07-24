@@ -9,7 +9,7 @@ function Header() {
                 <h1>DSMeta-WTiiNFO</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://github.com/wtiinfo"> wtiinfo</a>
+                    <a href="https://github.com/wtiinfo"> Wando Borges</a>
                 </p>
             </div>
         </header>
